@@ -1,2 +1,2 @@
-These are the git commands
+These are the git commanDS
 
